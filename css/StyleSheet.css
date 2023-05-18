@@ -1,0 +1,30 @@
+body {
+	margin: 20px;
+	text-align: center;
+	font-size: 15px;
+	letter-spacing: 0.5px;
+	line-height: 1.5;
+	color: #1c1b1b;
+}
+
+ul li {
+	list-style: disc;
+	font-size: 17px;
+	line-height: 1.59;
+}
+
+h1	{
+	color: green;
+}
+
+ {
+	float: left;
+	margin:;
+	height: 300px;
+}
+
+p	{
+	font-family: sans-serif;
+	text-align: justify;
+	font-size: 25px;
+}
